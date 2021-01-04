@@ -1,4 +1,4 @@
-# JetBrains Academy: Virtual Piano
+# JetBrains Academy: Flashcards
 
 Flashcards project from https://hyperskill.org
 
